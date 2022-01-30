@@ -1,0 +1,24 @@
+[
+    {
+        "title":"Test Title",
+        "id":"Test text"
+    },
+
+    {
+        "title":"Monday",
+        "text":"Bootcamp Class",
+        "id": 1
+    },
+
+    {
+        "title":"Friday",
+        "text":"Watch a Movie",
+        "id": 2
+    },
+
+    {
+        "title":"Saturday",
+        "text":"Wedding",
+        "id": 3
+    }
+]
